@@ -7,7 +7,3 @@
 ## Project
 - LMS : One line about it
 - LMS : One line about it
-## Social link
-- github : https://github.com
-- LinkedIN :
-https://linkedin.com
