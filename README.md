@@ -8,6 +8,3 @@ I am a student at ugsot, currently learning Git GitHub
 ## PROJECT 
 - git hub1: first projrctory
 - git hub2: first projrctory1
-## Social links
-- GitHub:https://github.com/gungun
-- LinkedIn:https://linkedin.com/gungun
